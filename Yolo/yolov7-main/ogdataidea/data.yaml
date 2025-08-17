@@ -1,0 +1,5 @@
+train: ../yolov7-main/ogdataidea/train/images
+val: ../yolov7-main/ogdataidea/valid/images
+test: ../yolov7-main/ogdataidea/test/images
+nc: 3
+names: ['object', 'crosswalk', 'person_walking']
